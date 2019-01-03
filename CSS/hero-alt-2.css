@@ -21,7 +21,7 @@ header img{
 	height: 600px;
 	width: 600px;
 	border: 18px solid #161414;
-	
+	box-shadow: 0 10px 20px black;
 }
 
 .content{

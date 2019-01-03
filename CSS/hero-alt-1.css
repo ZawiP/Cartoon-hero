@@ -5,6 +5,8 @@ html, body{
 
 header{
 	background-color: #2c4f82;
+	background-image: url('../img/elon-image-100.jpg');
+	background-repeat: repeat;
 	padding: 40px;
 	text-align: center;
 
@@ -16,12 +18,16 @@ h1{
 	text-shadow: 0 4px 20px black;
 }
 
+img.elon-image-100{
+	
+}
+
 header img{
 	border-radius: 50%;
 	height: 600px;
 	width: 600px;
 	border: 18px solid #161414;
-	
+	box-shadow: 0 10px 20px black;
 }
 
 .content{
